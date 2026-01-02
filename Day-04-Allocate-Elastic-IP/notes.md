@@ -6,8 +6,6 @@ Improved Interview-Ready Answer (Use This)
 
 “AWS recommends releasing unused Elastic IP addresses to avoid unnecessary charges and to efficiently manage limited public IPv4 resources. Elastic IPs are intended to be attached to running resources, and unused addresses are charged to discourage wastage.”
 
-🔥 This is a strong, clear answer.
-
 ⭐ One-Line Version (Rapid Round)
 
 “To avoid charges and prevent wastage of limited public IPv4 addresses.”
