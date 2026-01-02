@@ -1,5 +1,4 @@
 Interview Question
-
 What is a security group in AWS, and why is it called a stateful firewall?
 “A security group in AWS acts as a virtual firewall for EC2 instances, controlling inbound and outbound traffic. It is called stateful because when an inbound rule allows traffic, the corresponding outbound response is automatically allowed, even if no outbound rule is explicitly defined.”
 
