@@ -15,8 +15,6 @@ You cannot stretch one local network across multiple physical locations.
 
 “A subnet in AWS is always associated with a single Availability Zone because it represents a logical network within a specific physical data center. This design ensures low latency, fault isolation, and high availability. To achieve high availability across zones, AWS uses multiple subnets—one per Availability Zone.”
 
-This is a strong pass answer.
-
 ⭐ Short Answer (Quick Round)
 
 “Because a subnet is a network tied to a single physical Availability Zone, and spreading it across zones would break isolation and reliability.”
