@@ -14,8 +14,6 @@ This caused unnecessary cost
 
 “gp3 solves the limitation of gp2 by decoupling performance from storage size. With gp3, IOPS and throughput can be configured independently of volume size, providing better performance control and lower cost compared to gp2.”
 
-🔥 This is a strong pass answer.
-
 ⭐ Short Version (Rapid Round)
 
 “gp3 allows independent scaling of performance and storage, unlike gp2.”
