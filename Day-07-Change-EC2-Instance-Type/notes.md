@@ -20,3 +20,25 @@ Changing instance types is used to scale applications vertically, optimize costs
 
 ## ✅ Status
 Completed
+🎤 Interview Question
+
+👉 Why must an EC2 instance be stopped before changing its instance type?
+
+✅ Interview-Ready Answer (Use This)
+
+“An EC2 instance must be stopped before changing its instance type because the instance type defines underlying hardware resources such as CPU, memory, and networking. These resources cannot be modified while the instance is running, so AWS requires the instance to be stopped to safely reallocate the hardware.”
+
+⭐ Short Version (Rapid Round)
+
+“Because instance type changes require underlying hardware reallocation, which can only be done when the instance is stopped.”
+
+🧠 What Interviewers Are Checking
+
+Understanding of hardware abstraction ✅
+
+Knowledge of vertical scaling ✅
+
+Awareness of AWS operational constraints ✅
+
+📌 Optional Extra (If You Want to Sound Stronger)
+“Stopping the instance ensures data consistency and prevents runtime failures during hardware changes.”
