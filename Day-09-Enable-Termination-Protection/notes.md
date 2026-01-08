@@ -20,3 +20,9 @@ Termination protection is commonly enabled on production EC2 instances to avoid 
 
 ## ✅ Status
 Completed
+🎤 Interview Question
+👉 Can an EC2 instance with termination protection enabled be deleted? If yes, how?
+✅ Interview-Ready Answer (Use This)
+“An EC2 instance with termination protection enabled cannot be deleted until termination protection is explicitly disabled. Once the protection is turned off, the instance can then be terminated.”
+
+- Termination protection must be disabled before deleting an EC2 instance
